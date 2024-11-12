@@ -11,6 +11,8 @@ A YouTube clone project built with a React frontend, Node.js backend, and MongoD
 ### Setting Up the Database
 1. Download MongoDB Compass and create a local collection.
 2. Import data from the **DB** folder.
+3. when using a virtual machine run : sudo systemctl start mongod
+
 
 ### Launching the Web App
 To launch the web application, follow these steps:
