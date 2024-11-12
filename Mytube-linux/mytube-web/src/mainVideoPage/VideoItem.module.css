@@ -1,0 +1,77 @@
+/* VideoItem.module.css */
+
+.cardBody {
+    display: flex;
+    flex-direction: column;
+    width: 290px;
+    height: 260px;
+    margin: 0; /* Remove margin */
+    align-self: flex-start;
+    margin-bottom: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.cardBody:hover {
+    border-color: black;
+    background-color: lightgray;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    transition: color 0.3s, background-color 0.3s; /* Smooth transition */
+}
+
+.border {
+    border: 1px solid rgba(0, 0, 0, 0.125);
+}
+
+.rounded {
+    border-radius: 8px; 
+}
+
+.cardImg {
+    width: 100%;
+    height: 60%;
+    margin: 0;
+    border-radius: 4px; /* 0.25rem to px */
+}
+
+.cardTitle {
+    margin: 5px;
+    color: black;
+    font-size: 20px; /* 1.25rem to px */
+}
+
+.cardText {
+    margin: 5px;
+    color: black;
+    align-items: end;
+    font-size: 16px; /* 1rem to px */
+}
+
+.metaInfo {
+    margin: 5px;
+    
+}
+
+.textMuted {
+    color: #6c757d;
+    font-size: 14px; /* 0.875rem to px */
+}
+/* VideoItem.module.css */
+
+/* Add dark mode styles */
+.dark {
+    
+    background-color: #343a40;
+    color: #ffffff;
+}
+.dark .cardTitle {
+    color: #ffffff;
+}
+.dark .cardText {
+    color: #ffffff;
+}
+.dark .textMuted {
+    color: #ffffff;
+}
+.dark:hover {
+    background-color: #6c757d; /* Dark hover background */
+}
+

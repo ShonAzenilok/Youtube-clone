@@ -1,0 +1,71 @@
+/* Comments.module.css */
+
+.container {
+  /* Styles for the main comments section in light mode */
+  background-color: #f5f5f5; /* Light grey background */
+  border-radius: 0.5rem; /* Rounded corners */
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1); /* Subtle shadow effect */
+  padding: 1rem; /* Add some padding */
+  overflow-y: auto; /* Enable scrolling for long comment lists */
+  max-height: 300px; /* Set a maximum height (adjust as needed) */
+}
+
+.header {
+  /* Styles for the comments header */
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 0.5rem; /* Add some space below the header */
+}
+
+.header h6 {
+  /* Styles for the comments count */
+  font-weight: bold;
+  margin-bottom: 0; /* Remove default bottom margin */
+}
+
+.input {
+  /* Styles for the comment input and button container */
+  display: flex;
+  align-items: center;
+}
+
+.input input {
+  /* Styles for the comment input field */
+  flex: 1; /* Allow the input to fill most of the container */
+  border: 1px solid #ddd; /* Light grey border */
+  border-radius: 0.25rem; /* Rounded corners */
+  padding: 0.5rem; /* Add some padding */
+}
+
+.input button {
+  /* Styles for the comment button */
+  margin-left: 0.5rem; /* Add some space between input and button */
+}
+
+
+.h5 {
+  color: #000;
+}
+.dark .h5 {
+  color: white;
+}
+
+.dark .input {
+  background-color: #495057;
+  border: 1px solid whitesmoke;
+  color: white;
+}
+.dark .input::placeholder {
+  color: white; /* placeholder color in night mode */
+}
+.dark .btn {
+  background-color: #495057;
+  border: 1px solid whitesmoke;
+  color: white;
+}
+.dark .btn:hover {
+  background-color: #f5f5f5;
+  color: #495057;
+  
+}

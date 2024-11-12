@@ -1,0 +1,125 @@
+/* NavBar.module.css */
+.navbar {
+    display: flex; /* Use flexbox layout */
+    justify-content: space-between; /* Distribute space between items */
+    align-items: center; /* Center items vertically */
+    background-color: #f8f9fa; /* Set background color */
+    padding: 10px 20px; /* Add padding */
+    border-bottom: 1px solid #dee2e6; /* Add a border */
+}
+
+.navbar.dark {
+    background-color: #343a40; /* Dark background */
+    border-bottom: 1px solid #454d55; /* Darker border */
+}
+
+.searchForm {
+    width: 50%;
+    display: flex; /* Flex container for centering */
+    justify-content: center; /* Center the form content */
+    margin-left: auto;
+}
+
+.btnsearch {
+    display: flex; /* Flex container for centering */
+    justify-content: center; /* Center the form content */
+    background-color: white;
+    border: 1px solid crimson;
+    color: crimson;
+    border-radius: 26px;
+    padding: 5px 15px; /* Add padding to the button */
+}
+
+.btnsearch.dark {
+    background-color: #6c757d; /* Dark background */
+    border: 1px solid #ced4da; /* Light border */
+    color: white; /* White text */
+}
+.btnsearch.dark:hover {
+    background-color: #f5f5f5;
+    color: #000;
+    transition: color 0.3s, background-color 0.3s; /* Smooth transition */
+}
+.btnsearch.navbar.dark:focus {
+    background-color: #f5f5f5;
+    color: #000;
+   
+}
+
+.btnsearch:hover {
+    color: white;
+    background-color: crimson;
+    transition: color 0.3s, background-color 0.3s; /* Smooth transition */
+}
+
+.btnsearch:focus {
+    background-color: white;
+    color: crimson;
+}
+
+.btnContainer {
+    display: flex;
+    align-items: center;
+    margin-left: auto; /* Push the container to the right */
+}
+
+.btnsearchone, .btnsearchtwo {
+    display: flex; /* Flex container for centering */
+    justify-content: center; /* Center the form content */
+    align-self: center; /* Center the button vertically */
+    background-color: white;
+    border: 1px solid crimson;
+    color: crimson;
+    border-radius: 26px;
+    padding: 5px 15px; /* Add padding to the button */
+    margin-left: 10px; /* Add space between the buttons */
+}
+
+.btnsearchone.dark, .btnsearchtwo.dark {
+    background-color: #6c757d; /* Dark background */
+    border: 1px solid #ced4da; /* Light border */
+    color: white; /* White text */
+}
+
+
+.btnsearchone:hover, .btnsearchtwo:hover {
+    background-color: #f5f5f5;
+    color: #000;
+    transition: color 0.3s, background-color 0.3s; /* Smooth transition */
+}
+
+.btnsearchone:focus, .btnsearchtwo:focus {
+    background-color: #f5f5f5;
+    color: #000;
+  
+}
+
+.imgyt {
+    width: auto;
+    height: 50px; /* Set a fixed height */
+    margin: 0;
+    padding: 0;
+    margin-left: 10px;
+    align-self: center; /* Center the image vertically */
+    object-fit: cover; /* Ensure the full picture is displayed */
+    border-radius: 0;
+}
+
+.pfpbutton {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%; /* Make the image circular */
+    margin-left: 10px;
+    align-self: center; /* Center the image vertically */
+    margin-right: 5px;
+}
+
+/* Dark mode for text input */
+.searchInput.dark {
+    background-color: #495057; /* Dark background */
+    color: white; /* White text */
+    border: 1px solid #ced4da; /* Light border */
+}
+.searchInput.dark::placeholder {
+    color: white;
+}

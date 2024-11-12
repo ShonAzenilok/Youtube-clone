@@ -1,0 +1,56 @@
+/* CategoriesBar.module.css */
+
+.categoriesList {
+    display: flex;
+    flex-direction: row !important;
+    justify-content: center;
+    list-style-type: none;
+    padding: 0;
+    margin: 10px;
+    margin-bottom: 25px;
+    
+    border-bottom: 1px solid whitesmoke;
+}
+
+.navItem {
+    margin: 5px; /* Adjust margin between buttons */
+}
+
+.btn {
+    width: 90px;
+    display: flex; /* Flex container for centering */
+    justify-content: center; /* Center the form content */
+    align-self: center; /* Center the button vertically */
+    background-color: white;
+    border: 1px solid gray;
+    color: gray;
+    border-radius: 26px;
+    padding: 5px 15px; /* Add padding to the button */
+    margin-left: 10px; /* Add space between the buttons */
+}
+
+.btn:hover {
+    color: white;
+    background-color: gray;
+    transition: color 0.3s, background-color 0.3s; /* Smooth transition */
+}
+
+.btn:focus {
+    background-color: white;
+    color: gray;
+}
+
+/* Dark mode styles */
+.dark .categoriesList {
+    border-bottom-color: #454d55; /* Darker border color */
+}
+
+.dark .btn {
+    background-color: #343a40; /* Dark background */
+    border-color: #6c757d; /* Darker border color */
+    color: white; /* White text */
+}
+
+.dark .btn:hover {
+    background-color: #6c757d; /* Dark hover background */
+}

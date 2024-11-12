@@ -1,0 +1,39 @@
+/* Mainvideo.css */
+
+/* Style for the video */
+.video {
+    width: 100%;
+    display: block;
+    margin: 0 auto;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 10px; /* Added padding */
+}
+
+/* Container for the bar with video details */
+.barcom {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Container for the comments section */
+.commentcom {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 50px;
+    
+}
+/* Mainvideo.module.css */
+
+/* Dark mode styles */
+.dark {
+    background-color: #343a40; /* Dark background color */
+    color: #ffffff; /* White text color */
+}
+

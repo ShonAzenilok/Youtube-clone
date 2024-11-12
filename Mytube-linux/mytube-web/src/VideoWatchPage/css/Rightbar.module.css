@@ -1,0 +1,20 @@
+.h3 {
+    font-size: 28px;
+    /* Adjust font size as needed */
+    font-weight: bold;
+    color: crimson;
+    /* Text color */
+    background: linear-gradient(to right, crimson, #710c04);
+    /* Gradient background */
+    -webkit-background-clip: text;
+    /* Apply gradient to text */
+    -webkit-text-fill-color: transparent;
+    /* Hide original text color */
+  
+    letter-spacing: 1px;
+    /* Add letter spacing */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    /* Add text shadow */
+    transition: all 0.3s ease;
+    /* Smooth transition */
+}

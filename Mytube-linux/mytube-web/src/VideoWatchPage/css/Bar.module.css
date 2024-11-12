@@ -1,0 +1,71 @@
+/* Bar container */
+.barContainer {
+    display: flex;
+    flex-direction: column;
+}
+
+/* Bar title */
+.barTitle {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: white;
+    border-radius: 12px;
+    padding: 5px;
+    padding-left: 10px;
+    color: black;
+   
+    margin-bottom: 0px;
+}
+
+/* Description section */
+.desc {
+    margin-top: 10px;
+}
+
+/* Views and postdate */
+.barViewsPostdate {
+    font-size: 14px;
+    background-color: white;
+    border-radius: 12px;
+    padding-left: 10px;
+    color: black;
+    margin-bottom: 5px;
+}
+
+/* Description */
+.barDescription {
+    font-size: 16px;
+    height: 80px;
+    background-color: white;
+    border-radius: 12px;
+    padding: 10px;
+    color: black;
+    margin-bottom: 0;
+    display: flex; /* Use flexbox */
+    align-items: flex-start; /* Align items to the start */
+    
+}
+/* Bar.module.css */
+
+/* Dark mode styles */
+.dark {
+  
+}
+
+/* Additional dark mode styles for Bar component */
+.dark .barTitle{
+    background-color: #495057; /* Dark background color */
+    color: #ffffff; /* White text color */
+}
+
+.dark .barViewsPostdate {
+    background-color: #495057; /* Dark background color */
+    color: #ffffff; /* White text color */
+}
+
+.dark .barDescription {
+     background-color: #495057; /* Dark background color */
+    color: #ffffff; /* White text color */
+}
+
+

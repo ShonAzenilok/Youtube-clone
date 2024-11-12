@@ -1,0 +1,131 @@
+.formContainerLogin {
+  width: 30rem;
+  padding: 2rem;
+  background-color: whitesmoke;
+  border-radius: 8px;
+  box-shadow: 0 0 16px 1px rgba(0, 0, 0, 0.5);
+  margin: 0 auto;
+}
+
+.inputWrapper.no-margin {
+  margin-bottom: 0;
+}
+
+.inputWrapper label {
+  display: block;
+  font-size: 0.8rem;
+  margin-bottom: 0.2rem;
+  color: black;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.inputWrapper input {
+  display: block;
+  width: 100%;
+  width: 19rem;
+  margin-bottom: 1rem;
+  padding: 0.5rem;
+  font-size: 1rem;
+  border-radius: 4px;
+  border: 1px solid lightgrey;
+  background-color: white;
+  color: black;
+}
+
+.error {
+  color: #DC143C;
+  font-size: 1rem;  
+  margin-top: 4px;     
+}
+
+button {
+  padding: 0.5rem 1rem;
+  
+  font-size: 1rem;
+  border-radius: 26px !important;
+  background-color: white;
+  border: 1px solid crimson;
+  color: crimson;
+ 
+}
+
+button:hover {
+  color: white;
+  background-color: crimson;
+  transition: color 0.3s, background-color 0.3s; /* Smooth transition */
+}
+button:focus {
+  color: white;
+  background-color: crimson;
+}
+
+.headerLogin {
+  text-align: center;
+  font-size: 70px;
+  background: -webkit-linear-gradient(#797373, #ddc8c8);
+  background-clip: text;
+  font-family: Arial, Helvetica, sans-serif;
+  position: relative;
+  top: -10px;
+  font-weight: bold;
+  color: #797373;
+}
+
+
+.darkMode {
+  height: 100vh;
+  background-color: #333333;
+  color: #ffffff;
+}
+.darkMode .formContainerLogin {
+  background-color: #343a40; /* Dark background */
+}
+.imgyt {
+  width: auto;
+  height: 75px; /* Set a fixed height */
+  margin: 5px;
+  padding: 0;
+  margin-left: 10px;
+  align-self: center; /* Center the image vertically */
+  object-fit: cover; /* Ensure the full picture is displayed */
+  border-radius: 0;
+}
+
+
+.darkMode input {
+  background-color: #2c2c2c;
+  color: #ffffff;
+}
+
+.darkMode button {
+  background-color: #6c757d; /* Dark background */
+    border: 1px solid #ced4da; /* Light border */
+    color: white; /* White text */
+}
+.darkMode button:hover {
+  background-color: #f5f5f5;
+  color: #000;
+  transition: color 0.3s, background-color 0.3s; /* Smooth transition */
+}
+.darkMode button:focus {
+  background-color: #f5f5f5;
+  color: #000;
+ 
+}
+
+.darkMode body {
+  background: #121212;
+  color: #ffffff;
+  height: 100vh;
+}
+.darkMode .inputWrapper label {
+  color: white;
+}
+
+.darkMode .inputWrapper input {
+  border: 1px solid #ced4da;
+  background-color: #495057;
+  color: white;
+}
+

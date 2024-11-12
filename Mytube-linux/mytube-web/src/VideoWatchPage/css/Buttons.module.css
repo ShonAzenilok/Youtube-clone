@@ -1,0 +1,187 @@
+/* Buttons.module.css */
+
+.flexContainer {
+    display: inline-flex;
+    padding: 0;
+    margin: 0;
+    margin-left: 8px;
+    align-items: center;
+   
+}
+
+.subButton {
+    display: flex; /* Flex container for centering */
+    justify-content: center; /* Center the form content */
+    background-color: #f9f9f9 ;
+    border: 1px solid  #990000;
+    color: #990000;
+    border-radius: 26px;
+    width: 130px;
+    height: 40px;
+    margin-right: 5px;
+}
+
+.subButton:hover {
+    background-color: #990000;
+    color: white;
+    transition: color 0.3s, background-color 0.3s; /* Smooth transition */
+}
+
+.subButton:focus {
+    background-color: #990000;
+    color: white;
+}
+
+.likeButton {
+    display: flex; /* Flex container for centering */
+    justify-content: center; /* Center the form content */
+    background-color: #f9f9f9;
+    border: 1px solid  #b30000;
+    color:  #b30000;
+    border-radius: 26px;
+    width: 125px;
+    height: 40px;
+    margin-right: 5px;
+}
+.likeButton:hover {
+    background-color: #b30000;
+    color: white;
+    transition: color 0.3s, background-color 0.3s; /* Smooth transition */
+}
+.likeButton:focus {
+    background-color: #b30000;
+    color: white;
+  
+}
+
+.unlikeButton {
+    display: flex; /* Flex container for centering */
+    justify-content: center; /* Center the form content */
+    background-color: #f9f9f9;
+    border: 1px solid #cc0000;
+    color: #cc0000;
+    border-radius: 26px;
+    width: 120px;
+    height: 40px;
+    margin-right: 5px;
+}
+.unlikeButton:hover {
+    background-color: #cc0000;
+    color: white;
+    transition: color 0.3s, background-color 0.3s; /* Smooth transition */
+}
+.unlikeButton:focus {
+    background-color: #cc0000;
+    color: white;
+}
+
+.shareButton {
+    display: flex; /* Flex container for centering */
+    justify-content: center; /* Center the form content */
+    background-color: #f9f9f9;
+    border: 1px solid #e60000, ;
+    color: #e60000 ;
+    border-radius: 26px;
+    width: 115px;
+  
+    height: 40px;
+}
+.shareButton:hover {
+    background-color: #e60000;
+    color: white;
+    transition: color 0.3s, background-color 0.3s; /* Smooth transition */
+}
+.shareButton:focus {
+    background-color: #e60000;
+    color: white;
+
+}
+
+.middleButtons {
+    margin: 0 8px;
+}
+
+.counter {
+    margin-left: 4px;
+}
+
+.pfpimg {
+    width: 60px;
+    height: 60px;
+    margin-right: 20px;
+    border-radius: 50%; /* Make the image circular */
+    align-self: flex-start;
+    padding: 3px;
+}
+/* Buttons.module.css */
+
+/* Dark mode styles */
+
+.dark .subButton {
+    background-color: #495057;
+  border: 1px solid whitesmoke;
+  color: white;
+}
+.dark .subButton:hover {
+    background-color: #f5f5f5;
+    color: #000;
+    transition: color 0.3s, background-color 0.3s; /* Smooth transition */
+}
+
+.dark .subButton:focus {
+    background-color: #f5f5f5;
+    color: #000;
+    transition: color 0.3s, background-color 0.3s; /* Smooth transition */
+}
+
+.dark .likeButton {
+    background-color: #495057;
+    border: 1px solid whitesmoke;
+    color: white;
+}
+.dark .likeButton:hover {
+    background-color: #f5f5f5;
+    color: #000;
+    transition: color 0.3s, background-color 0.3s; /* Smooth transition */
+}
+.dark .likeButton:focus {
+    background-color: #f5f5f5;
+    color: #000;
+    transition: color 0.3s, background-color 0.3s; /* Smooth transition */
+  
+}
+
+
+.dark .unlikeButton {
+    background-color: #495057;
+    border: 1px solid whitesmoke;
+    color: white;
+}
+.dark .unlikeButton:hover {
+    background-color: #f5f5f5;
+    color: #000;
+    transition: color 0.3s, background-color 0.3s; /* Smooth transition */
+}
+.dark .unlikeButton:focus {
+    background-color: #f5f5f5;
+    color: #000;
+    transition: color 0.3s, background-color 0.3s; /* Smooth transition */
+}
+
+.dark .shareButton {
+    background-color: #495057;
+    border: 1px solid whitesmoke;
+    color: white;
+}
+
+.dark .shareButton:hover {
+    background-color: #f5f5f5;
+    color: #000;
+    transition: color 0.3s, background-color 0.3s; /* Smooth transition */
+}
+.dark .shareButton:focus {
+    background-color: #f5f5f5;
+    color: #000;
+    transition: color 0.3s, background-color 0.3s; /* Smooth transition */
+
+}

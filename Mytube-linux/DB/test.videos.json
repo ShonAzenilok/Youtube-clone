@@ -1,0 +1,630 @@
+[{
+  "_id": {
+    "$oid": "66a227d3cae52f1216ed6e98"
+  },
+  "title": "Chopping wood",
+  "description": "Chopping wood outside of my house",
+  "thumbnailPath": "resources/Thumbnails/uploadImage-1721903059419.jpg",
+  "videoPath": "resources/videos/uploadVideo-1721903059420.mp4",
+  "uploaderID": {
+    "$oid": "66a21c02cae52f1216ed6e34"
+  },
+  "likes": 0,
+  "unlikes": 0,
+  "views": 0,
+  "commentamount": 0,
+  "comments": [],
+  "postdate": {
+    "$date": "2024-07-25T10:24:19.444Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a22837cae52f1216ed6ea3"
+  },
+  "title": "BasketBall",
+  "description": "playing BasketBall at my house",
+  "thumbnailPath": "resources/Thumbnails/uploadImage-1721903158966.jpg",
+  "videoPath": "resources/videos/uploadVideo-1721903158967.mp4",
+  "uploaderID": {
+    "$oid": "66a21c02cae52f1216ed6e34"
+  },
+  "likes": 0,
+  "unlikes": 0,
+  "views": 0,
+  "commentamount": 0,
+  "comments": [],
+  "postdate": {
+    "$date": "2024-07-25T10:25:59.013Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a22866cae52f1216ed6eaa"
+  },
+  "title": "Sport car",
+  "description": "Amazing sport car i saw",
+  "thumbnailPath": "resources/Thumbnails/uploadImage-1721903206608.jpg",
+  "videoPath": "resources/videos/uploadVideo-1721903206621.mp4",
+  "uploaderID": {
+    "$oid": "66a21c02cae52f1216ed6e34"
+  },
+  "likes": 0,
+  "unlikes": 0,
+  "views": 0,
+  "commentamount": 0,
+  "comments": [],
+  "postdate": {
+    "$date": "2024-07-25T10:26:46.914Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a22881cae52f1216ed6eb2"
+  },
+  "title": "My cat",
+  "description": "My cute little cat",
+  "thumbnailPath": "resources/Thumbnails/uploadImage-1721903232998.jpg",
+  "videoPath": "resources/videos/uploadVideo-1721903232999.mp4",
+  "uploaderID": {
+    "$oid": "66a21c02cae52f1216ed6e34"
+  },
+  "likes": 0,
+  "unlikes": 0,
+  "views": 0,
+  "commentamount": 0,
+  "comments": [],
+  "postdate": {
+    "$date": "2024-07-25T10:27:13.006Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a228f6cae52f1216ed6ed2"
+  },
+  "title": "City View",
+  "description": "the view from my house",
+  "thumbnailPath": "resources/Thumbnails/uploadImage-1721903350151.jpg",
+  "videoPath": "resources/videos/uploadVideo-1721903350153.mp4",
+  "uploaderID": {
+    "$oid": "66a21b9ccae52f1216ed6e1b"
+  },
+  "likes": 0,
+  "unlikes": 0,
+  "views": 0,
+  "commentamount": 0,
+  "comments": [],
+  "postdate": {
+    "$date": "2024-07-25T10:29:10.212Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a22911cae52f1216ed6ed7"
+  },
+  "title": "Party",
+  "description": "An awesome party we went to",
+  "thumbnailPath": "resources/Thumbnails/uploadImage-1721903377379.jpg",
+  "videoPath": "resources/videos/uploadVideo-1721903377379.mp4",
+  "uploaderID": {
+    "$oid": "66a21b9ccae52f1216ed6e1b"
+  },
+  "likes": 0,
+  "unlikes": 0,
+  "views": 0,
+  "commentamount": 0,
+  "comments": [],
+  "postdate": {
+    "$date": "2024-07-25T10:29:37.387Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a2292fcae52f1216ed6edd"
+  },
+  "title": "Eiffel tower",
+  "description": "paris trip memory",
+  "thumbnailPath": "resources/Thumbnails/uploadImage-1721903407678.jpg",
+  "videoPath": "resources/videos/uploadVideo-1721903407679.mp4",
+  "uploaderID": {
+    "$oid": "66a21b9ccae52f1216ed6e1b"
+  },
+  "likes": 0,
+  "unlikes": 0,
+  "views": 0,
+  "commentamount": 0,
+  "comments": [],
+  "postdate": {
+    "$date": "2024-07-25T10:30:07.719Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a2294bcae52f1216ed6ee4"
+  },
+  "title": "Fire",
+  "description": "Fire pit",
+  "thumbnailPath": "resources/Thumbnails/uploadImage-1721903435703.jpg",
+  "videoPath": "resources/videos/uploadVideo-1721903435704.mp4",
+  "uploaderID": {
+    "$oid": "66a21b9ccae52f1216ed6e1b"
+  },
+  "likes": 0,
+  "unlikes": 0,
+  "views": 0,
+  "commentamount": 0,
+  "comments": [],
+  "postdate": {
+    "$date": "2024-07-25T10:30:35.725Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a2295fcae52f1216ed6eec"
+  },
+  "title": "Football",
+  "description": "a soccer match we went to",
+  "thumbnailPath": "resources/Thumbnails/uploadImage-1721903455258.jpg",
+  "videoPath": "resources/videos/uploadVideo-1721903455266.mp4",
+  "uploaderID": {
+    "$oid": "66a21b9ccae52f1216ed6e1b"
+  },
+  "likes": 0,
+  "unlikes": 0,
+  "views": 0,
+  "commentamount": 0,
+  "comments": [],
+  "postdate": {
+    "$date": "2024-07-25T10:30:55.420Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a22975cae52f1216ed6ef5"
+  },
+  "title": "Golf",
+  "description": "Golf match",
+  "thumbnailPath": "resources/Thumbnails/uploadImage-1721903477430.jpg",
+  "videoPath": "resources/videos/uploadVideo-1721903477431.mp4",
+  "uploaderID": {
+    "$oid": "66a21b9ccae52f1216ed6e1b"
+  },
+  "likes": 0,
+  "unlikes": 0,
+  "views": 0,
+  "commentamount": 0,
+  "comments": [],
+  "postdate": {
+    "$date": "2024-07-25T10:31:17.449Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a229a0cae52f1216ed6eff"
+  },
+  "title": "Hack3r",
+  "description": "a video of some guy hacking my house",
+  "thumbnailPath": "resources/Thumbnails/uploadImage-1721903520815.jpg",
+  "videoPath": "resources/videos/uploadVideo-1721903520815.mp4",
+  "uploaderID": {
+    "$oid": "66a21b9ccae52f1216ed6e1b"
+  },
+  "likes": 0,
+  "unlikes": 0,
+  "views": 0,
+  "commentamount": 0,
+  "comments": [],
+  "postdate": {
+    "$date": "2024-07-25T10:32:00.821Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a229b7cae52f1216ed6f0a"
+  },
+  "title": "Israel",
+  "description": "Israel flag",
+  "thumbnailPath": "resources/Thumbnails/uploadImage-1721903543794.jpg",
+  "videoPath": "resources/videos/uploadVideo-1721903543794.mp4",
+  "uploaderID": {
+    "$oid": "66a21b9ccae52f1216ed6e1b"
+  },
+  "likes": 0,
+  "unlikes": 0,
+  "views": 0,
+  "commentamount": 0,
+  "comments": [],
+  "postdate": {
+    "$date": "2024-07-25T10:32:23.803Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a229d1cae52f1216ed6f16"
+  },
+  "title": "Japan streets",
+  "description": "Japan streets tour",
+  "thumbnailPath": "resources/Thumbnails/uploadImage-1721903569721.jpg",
+  "videoPath": "resources/videos/uploadVideo-1721903569721.mp4",
+  "uploaderID": {
+    "$oid": "66a21b9ccae52f1216ed6e1b"
+  },
+  "likes": 0,
+  "unlikes": 0,
+  "views": 0,
+  "commentamount": 0,
+  "comments": [],
+  "postdate": {
+    "$date": "2024-07-25T10:32:49.727Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a229f0cae52f1216ed6f23"
+  },
+  "title": "Jellyfish",
+  "description": "Jellyfish that stung me ",
+  "thumbnailPath": "resources/Thumbnails/uploadImage-1721903600620.jpg",
+  "videoPath": "resources/videos/uploadVideo-1721903600620.mp4",
+  "uploaderID": {
+    "$oid": "66a21b9ccae52f1216ed6e1b"
+  },
+  "likes": 0,
+  "unlikes": 0,
+  "views": 0,
+  "commentamount": 0,
+  "comments": [],
+  "postdate": {
+    "$date": "2024-07-25T10:33:20.693Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a22a4fcae52f1216ed6f48"
+  },
+  "title": "Lemons",
+  "description": "my Lemon garden",
+  "thumbnailPath": "resources/Thumbnails/uploadImage-1721903695738.jpg",
+  "videoPath": "resources/videos/uploadVideo-1721903695739.mp4",
+  "uploaderID": {
+    "$oid": "66a21bf1cae52f1216ed6e31"
+  },
+  "likes": 0,
+  "unlikes": 0,
+  "views": 0,
+  "commentamount": 0,
+  "comments": [],
+  "postdate": {
+    "$date": "2024-07-25T10:34:55.799Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a22a65cae52f1216ed6f4d"
+  },
+  "title": "Metro",
+  "description": "Metro in new york",
+  "thumbnailPath": "resources/Thumbnails/uploadImage-1721903717226.jpg",
+  "videoPath": "resources/videos/uploadVideo-1721903717226.mp4",
+  "uploaderID": {
+    "$oid": "66a21bf1cae52f1216ed6e31"
+  },
+  "likes": 0,
+  "unlikes": 0,
+  "views": 0,
+  "commentamount": 0,
+  "comments": [],
+  "postdate": {
+    "$date": "2024-07-25T10:35:17.243Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a22a79cae52f1216ed6f53"
+  },
+  "title": "Monkeys",
+  "description": "Monkeys at new york",
+  "thumbnailPath": "resources/Thumbnails/uploadImage-1721903737049.jpg",
+  "videoPath": "resources/videos/uploadVideo-1721903737049.mp4",
+  "uploaderID": {
+    "$oid": "66a21bf1cae52f1216ed6e31"
+  },
+  "likes": 0,
+  "unlikes": 0,
+  "views": 0,
+  "commentamount": 0,
+  "comments": [],
+  "postdate": {
+    "$date": "2024-07-25T10:35:37.232Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a22a8ecae52f1216ed6f5a"
+  },
+  "title": "Night city",
+  "description": "night city view",
+  "thumbnailPath": "resources/Thumbnails/uploadImage-1721903758468.jpg",
+  "videoPath": "resources/videos/uploadVideo-1721903758491.mp4",
+  "uploaderID": {
+    "$oid": "66a21bf1cae52f1216ed6e31"
+  },
+  "likes": 0,
+  "unlikes": 0,
+  "views": 0,
+  "commentamount": 0,
+  "comments": [],
+  "postdate": {
+    "$date": "2024-07-25T10:35:58.517Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a22aa8cae52f1216ed6f62"
+  },
+  "title": "Paraglider",
+  "description": "Paragliding over mexico",
+  "thumbnailPath": "resources/Thumbnails/uploadImage-1721903784538.jpg",
+  "videoPath": "resources/videos/uploadVideo-1721903784542.mp4",
+  "uploaderID": {
+    "$oid": "66a21bf1cae52f1216ed6e31"
+  },
+  "likes": 0,
+  "unlikes": 0,
+  "views": 0,
+  "commentamount": 0,
+  "comments": [],
+  "postdate": {
+    "$date": "2024-07-25T10:36:24.554Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a22ad1cae52f1216ed6f6b"
+  },
+  "title": "Rocket launch",
+  "description": "Rocket launch at nasa space center, july 1921",
+  "thumbnailPath": "resources/Thumbnails/uploadImage-1721903824851.jpg",
+  "videoPath": "resources/videos/uploadVideo-1721903824854.mp4",
+  "uploaderID": {
+    "$oid": "66a21bf1cae52f1216ed6e31"
+  },
+  "likes": 0,
+  "unlikes": 0,
+  "views": 0,
+  "commentamount": 0,
+  "comments": [],
+  "postdate": {
+    "$date": "2024-07-25T10:37:05.124Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a22aeacae52f1216ed6f75"
+  },
+  "title": "Roses",
+  "description": "Roses at my garden",
+  "thumbnailPath": "resources/Thumbnails/uploadImage-1721903849993.jpg",
+  "videoPath": "resources/videos/uploadVideo-1721903849999.mp4",
+  "uploaderID": {
+    "$oid": "66a21bf1cae52f1216ed6e31"
+  },
+  "likes": 0,
+  "unlikes": 0,
+  "views": 0,
+  "commentamount": 0,
+  "comments": [],
+  "postdate": {
+    "$date": "2024-07-25T10:37:30.033Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a22b18cae52f1216ed6f80"
+  },
+  "title": "Sea Turtle",
+  "description": "Sea turtule under my house",
+  "thumbnailPath": "resources/Thumbnails/uploadImage-1721903896755.jpg",
+  "videoPath": "resources/videos/uploadVideo-1721903896785.mp4",
+  "uploaderID": {
+    "$oid": "66a21bf1cae52f1216ed6e31"
+  },
+  "likes": 0,
+  "unlikes": 0,
+  "views": 0,
+  "commentamount": 0,
+  "comments": [],
+  "postdate": {
+    "$date": "2024-07-25T10:38:16.933Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a22bb0b3946de7973187cf"
+  },
+  "title": "Mexican sea",
+  "description": "mexican sea Buenos noches",
+  "thumbnailPath": "resources/Thumbnails/uploadImage-1721904048741.jpg",
+  "videoPath": "resources/videos/uploadVideo-1721904048747.mp4",
+  "uploaderID": {
+    "$oid": "66a21bf1cae52f1216ed6e31"
+  },
+  "likes": 0,
+  "unlikes": 0,
+  "views": 0,
+  "commentamount": 0,
+  "comments": [],
+  "postdate": {
+    "$date": "2024-07-25T10:40:48.943Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a22bd8b3946de7973187dc"
+  },
+  "title": "Sky",
+  "description": "Sky view of antartica",
+  "thumbnailPath": "resources/Thumbnails/uploadImage-1721904088259.jpg",
+  "videoPath": "resources/videos/uploadVideo-1721904088284.mp4",
+  "uploaderID": {
+    "$oid": "66a21bf1cae52f1216ed6e31"
+  },
+  "likes": 0,
+  "unlikes": 0,
+  "views": 0,
+  "commentamount": 0,
+  "comments": [],
+  "postdate": {
+    "$date": "2024-07-25T10:41:28.375Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a22bf8b3946de7973187ea"
+  },
+  "title": "Space",
+  "description": "milkey way galaxy",
+  "thumbnailPath": "resources/Thumbnails/uploadImage-1721904120571.jpg",
+  "videoPath": "resources/videos/uploadVideo-1721904120576.mp4",
+  "uploaderID": {
+    "$oid": "66a21bf1cae52f1216ed6e31"
+  },
+  "likes": 0,
+  "unlikes": 0,
+  "views": 0,
+  "commentamount": 0,
+  "comments": [],
+  "postdate": {
+    "$date": "2024-07-25T10:42:00.716Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a22c13b3946de7973187f9"
+  },
+  "title": "Strawberries",
+  "description": "Strawberry at my garden home grown to be good",
+  "thumbnailPath": "resources/Thumbnails/uploadImage-1721904147021.jpg",
+  "videoPath": "resources/videos/uploadVideo-1721904147022.mp4",
+  "uploaderID": {
+    "$oid": "66a21bf1cae52f1216ed6e31"
+  },
+  "likes": 0,
+  "unlikes": 0,
+  "views": 0,
+  "commentamount": 0,
+  "comments": [],
+  "postdate": {
+    "$date": "2024-07-25T10:42:27.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a22c2bb3946de797318809"
+  },
+  "title": "Tiger",
+  "description": "very scary",
+  "thumbnailPath": "resources/Thumbnails/uploadImage-1721904171847.jpg",
+  "videoPath": "resources/videos/uploadVideo-1721904171848.mp4",
+  "uploaderID": {
+    "$oid": "66a21bf1cae52f1216ed6e31"
+  },
+  "likes": 0,
+  "unlikes": 0,
+  "views": 0,
+  "commentamount": 0,
+  "comments": [],
+  "postdate": {
+    "$date": "2024-07-25T10:42:51.870Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a22c40b3946de79731881a"
+  },
+  "title": "Waterfall",
+  "description": "Waterfall outside my garden",
+  "thumbnailPath": "resources/Thumbnails/uploadImage-1721904192909.jpg",
+  "videoPath": "resources/videos/uploadVideo-1721904192909.mp4",
+  "uploaderID": {
+    "$oid": "66a21bf1cae52f1216ed6e31"
+  },
+  "likes": 0,
+  "unlikes": 0,
+  "views": 0,
+  "commentamount": 0,
+  "comments": [],
+  "postdate": {
+    "$date": "2024-07-25T10:43:12.953Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a22c57b3946de79731882c"
+  },
+  "title": "Water",
+  "description": "Water ice cubes",
+  "thumbnailPath": "resources/Thumbnails/uploadImage-1721904215510.jpg",
+  "videoPath": "resources/videos/uploadVideo-1721904215519.mp4",
+  "uploaderID": {
+    "$oid": "66a21bf1cae52f1216ed6e31"
+  },
+  "likes": 0,
+  "unlikes": 0,
+  "views": 0,
+  "commentamount": 0,
+  "comments": [],
+  "postdate": {
+    "$date": "2024-07-25T10:43:35.568Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a230b3db45a7eacd3af270"
+  },
+  "title": "Baby Shark",
+  "description": "too doo do do to do",
+  "thumbnailPath": "resources/Thumbnails/uploadImage-1721905331150.png",
+  "videoPath": "resources/videos/uploadVideo-1721905331150.mp4",
+  "uploaderID": {
+    "$oid": "66a21c02cae52f1216ed6e34"
+  },
+  "likes": 0,
+  "unlikes": 0,
+  "views": 0,
+  "commentamount": 0,
+  "comments": [],
+  "postdate": {
+    "$date": "2024-07-25T11:02:11.176Z"
+  },
+  "__v": 0
+}]

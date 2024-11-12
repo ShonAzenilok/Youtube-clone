@@ -1,0 +1,28 @@
+
+
+.leftMenuContainer {
+    border-left: 3px solid #dee2e6;
+}
+
+.RightMenuContainer {
+    border-left: 3px solid #dee2e6;
+}
+
+.dark {
+    background-color: #333333;
+    color: #ffffff;
+    height: max-content;
+ 
+}
+.dark .leftMenuContainer {
+    background-color: #333333;
+    height: auto;
+    border-left: 3px solid #343a40;
+}
+.dark .RightMenuContainer {
+    background-color: #333333;
+    height: auto;
+    border-left: 3px solid #343a40;
+}
+
+

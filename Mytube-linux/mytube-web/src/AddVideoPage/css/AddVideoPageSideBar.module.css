@@ -1,0 +1,74 @@
+.nav {
+  background-color: #ffffff; /* White background */
+  border: 1px solid #e0e0e0; /* Light gray border */
+  border-radius: 12px; /* Rounded corners */
+  padding: 15px; /* Padding */
+  margin-top: 15px; /* Margin at the top */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+  list-style-type: none; /* Remove default list style */
+  width: auto; /* Fixed width for sidebar */
+}
+
+.nav_item {
+  margin-top: 12px; /* Space between each item */
+  border-bottom: 1px solid #e0e0e0; /* Light gray border */
+  padding-bottom: 8px; /* Padding at the bottom */
+  display: flex; /* Flexbox for alignment */
+  align-items: center; /* Center items vertically */
+  padding: 10px 0; /* Padding around each item */
+}
+
+.nav_item:first-child {
+  margin-top: 0; /* Remove margin-top for the first item */
+}
+
+.nav_item:last-child {
+  border-bottom: none; /* Remove border for the last item */
+}
+
+.nav_link {
+  color: #333333; /* Dark gray text */
+  text-decoration: none; /* Remove underline */
+  transition: color 0.3s, background-color 0.3s; /* Smooth transition */
+  padding: 0px 4px; /* Padding inside the link */
+  border-radius: 6px; /* Rounded corners */
+  display: flex; /* Flexbox for alignment */
+  align-items: center; /* Center items vertically */
+  width: 100%; /* Full width for link */
+}
+
+.nav_link:hover {
+  color: #ffffff; /* White text on hover */
+  background-color: crimson; /* Blue background on hover */
+  font-weight: bold; /* Bold text on hover */
+}
+
+.nav_icon {
+  margin-right: 10px; /* Space between icon and text */
+  font-size: 20px; /* Icon size */
+  color: inherit; /* Inherit color from link */
+}
+/* Dark mode styles */
+
+
+.dark .nav_item  {
+  border-bottom-color: #555555; /* Darker border */
+}
+
+.dark .nav_link  {
+  color: #ffffff; /* White text */
+}
+
+.dark .nav_link:hover {
+  background-color: crimson; /* Dark background on hover */
+}
+
+.dark .nav_icon {
+  color: white; /* Inherit color from link */
+}
+.nav.dark  {
+  background-color: #343a40 !important; /* Dark background */
+  border-color: #555555; /* Darker border */
+  color: #ffffff; /* White text */
+  width: auto !important;
+}

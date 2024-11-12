@@ -1,0 +1,56 @@
+.column {
+  border: 1px solid #dee2e6;
+  /* Light gray border */
+  padding: 8px;
+}
+
+.vidimg {
+  width: 140px;
+  /* Set width of the thumbnail image */
+  height: 80px;
+  /* Set height of the thumbnail image */
+  object-fit: fill;
+  padding: 0;
+  margin: 0;
+  /* Ensure the image covers the entire container */
+  border-radius: 8px;
+  /* Add border radius for rounded corners */
+}
+
+#videos-row .col {
+  display: flex;
+  align-items: start;
+  justify-content: start;
+
+}
+
+input[type="checkbox"] {
+  /* Hide the default checkbox */
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  width: 20px;
+  height: 20px;
+  border: 2px solid #555;
+  border-radius: 3px;
+  outline: none;
+  cursor: pointer;
+}
+
+input[type="checkbox"]:checked {
+  background-color: lightgray;
+}
+
+#videos-row {
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: auto;
+
+
+}
+.dark .column {
+  border: 1px solid #343a40; /* Light gray border */
+}
+

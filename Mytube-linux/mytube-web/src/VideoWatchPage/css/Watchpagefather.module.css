@@ -1,0 +1,20 @@
+/* LeftMenu.module.css, NavBar.module.css, and any other CSS module files */
+
+/* Add dark mode styles */
+.dark {
+    min-height: 100vh;
+    background-color: #333333;
+    color: #ffffff;
+    height: max-content;
+ 
+}
+.dark .leftMenuContainer {
+    background-color: #333333;
+    height: auto;
+}
+.dark .RightMenuContainer {
+    background-color: #333333;
+    height: auto;
+}
+
+

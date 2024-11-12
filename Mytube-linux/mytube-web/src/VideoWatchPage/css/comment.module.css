@@ -1,0 +1,200 @@
+/* comment.module.css */
+
+/* Container style for comment */
+.container {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: white;
+    padding: 10px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    height: 160px; /* Adjust height as needed */
+}
+
+/* Dark mode styles for the container */
+.container.dark {
+    background-color: #495057;
+    border: 1px solid whitesmoke;
+    color: whitesmoke;
+}
+
+/* Style for the username heading */
+.h6 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+/* Dark mode style for the username heading */
+.h6.dark {
+    color: whitesmoke;
+}
+
+/* Style for the comment text */
+.p {
+    font-size: 16px;
+    margin-bottom: 10px; /* Space between paragraph and buttons */
+    color: #333;
+}
+
+/* Dark mode style for comment text */
+.p.dark {
+    color: whitesmoke;
+}
+
+/* Container for like/unlike buttons */
+.buttons-container {
+    display: flex;
+    justify-content: flex-end; /* Align buttons to the end */
+    gap: 10px; /* Space between buttons */
+}
+
+/* Style for buttons */
+.Button {
+    border-radius: 26px;
+    width: 130px;
+    height: 40px;
+    margin-left: 5px; /* Space between buttons */
+    background-color: #f9f9f9;
+    border: 1px solid #cc0000;
+    color: #cc0000;
+}
+.Button:hover {
+    background-color: #cc0000;
+    color: white;
+    transition: color 0.3s, background-color 0.3s; /* Smooth transition */
+}
+
+/* Focus state for buttons */
+.Button:focus {
+    background-color: #cc0000;
+    color: white;
+}
+
+.dark .Button {
+    background-color: #495057;
+  border: 1px solid whitesmoke;
+  color: white;
+}
+
+/* Hover state for delete button */
+.dark .Button:hover {
+    background-color: #f5f5f5;
+    color: #000;
+    transition: color 0.3s, background-color 0.3s; /* Smooth transition */
+}
+
+/* Focus state for delete button */
+.dark .Button:focus {
+    background-color: #f5f5f5;
+    color: #000;
+}
+
+/* Hover state for buttons */
+
+
+/* Style for delete button */
+.Buttonx {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    width: 25px; /* Adjust width for delete button */
+    height: 25px; /* Adjust height for delete button */
+    background-color: #f9f9f9;
+    border: 1px solid #e60000, ;
+    color: #e60000 ;
+    border-radius: 50%; /* Make it a circle */
+    display: flex;
+    align-items: center; /* Center horizontally */
+    justify-content: center; /* Center vertically */
+    font-size: 16px; /* Adjust font size if needed */
+    cursor: pointer; /* Pointer cursor on hover */
+}
+
+
+.Buttonx:focus {
+    background-color: #cc0000;
+    color: white;
+    transition: color 0.3s, background-color 0.3s; /* Smooth transition */
+}
+.Buttonx:focus {
+    background-color: #cc0000;
+    color: white;
+
+}
+
+/* Dark mode style for delete button */
+.dark .Buttonx {
+    background-color: #495057;
+  border: 1px solid whitesmoke;
+  color: white;
+}
+
+/* Hover state for delete button */
+.dark .Buttonx:hover {
+    background-color: #cc0000;
+    color: #000;
+    transition: color 0.3s, background-color 0.3s; /* Smooth transition */
+}
+
+/* Focus state for delete button */
+.dark .Buttonx:focus {
+    background-color: #cc0000;
+    color: #000;
+    transition: color 0.3s, background-color 0.3s; /* Smooth transition */
+}
+
+/* Style for delete button */
+.Buttone {
+    position: absolute;
+    top: 5px;
+    right: 35px;
+    width: 25px; /* Adjust width for delete button */
+    height: 25px; /* Adjust height for delete button */
+    background-color: #f9f9f9;
+    border: 1px solid #e60000, ;
+    color: #e60000 ;
+    border-radius: 50%; /* Make it a circle */
+    display: flex;
+    align-items: center; /* Center horizontally */
+    justify-content: center; /* Center vertically */
+    font-size: 16px; /* Adjust font size if needed */
+    cursor: pointer; /* Pointer cursor on hover */
+}
+
+
+.Buttone:focus {
+    background-color: orange;
+    color: white;
+    transition: color 0.3s, background-color 0.3s; /* Smooth transition */
+}
+.Buttone:focus {
+    background-color: orange;
+    color: white;
+
+}
+
+/* Dark mode style for delete button */
+.dark .Buttone {
+    background-color: #495057;
+  border: 1px solid whitesmoke;
+  color: white;
+}
+
+/* Hover state for delete button */
+.dark .Buttone:hover {
+    background-color: orange;
+    color: #000;
+    transition: color 0.3s, background-color 0.3s; /* Smooth transition */
+}
+
+/* Focus state for delete button */
+.dark .Buttone:focus {
+    background-color: orange;
+    color: #000;
+    transition: color 0.3s, background-color 0.3s; /* Smooth transition */
+}

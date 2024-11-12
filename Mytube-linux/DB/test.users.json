@@ -1,0 +1,173 @@
+[{
+  "_id": {
+    "$oid": "000000000000000000000000"
+  },
+  "userName": "anon",
+  "password": "Anon1234!",
+  "videos_id": [],
+  "publicName": "@anon",
+  "profilePicPath": "Profilepics/defaultpfp.png",
+  "__v": 125,
+  "watched": [],
+  "likedcomments": [],
+  "likedvideos": [],
+  "unlikedcomments": [],
+  "unlikedvideos": []
+},
+{
+  "_id": {
+    "$oid": "66a21b9ccae52f1216ed6e1b"
+  },
+  "userName": "Sean",
+  "password": "$2b$10$A2gXn.aOA5F3vKNRDcGsA.NR9S2V7gZ75MpkK497F8Zp7Q3EnEtHu",
+  "videos_id": [
+    {
+      "$oid": "66a228f6cae52f1216ed6ed2"
+    },
+    {
+      "$oid": "66a22911cae52f1216ed6ed7"
+    },
+    {
+      "$oid": "66a2292fcae52f1216ed6edd"
+    },
+    {
+      "$oid": "66a2294bcae52f1216ed6ee4"
+    },
+    {
+      "$oid": "66a2295fcae52f1216ed6eec"
+    },
+    {
+      "$oid": "66a22975cae52f1216ed6ef5"
+    },
+    {
+      "$oid": "66a229a0cae52f1216ed6eff"
+    },
+    {
+      "$oid": "66a229b7cae52f1216ed6f0a"
+    },
+    {
+      "$oid": "66a229d1cae52f1216ed6f16"
+    },
+    {
+      "$oid": "66a229f0cae52f1216ed6f23"
+    }
+  ],
+  "publicName": "Sean",
+  "profilePicPath": "resources/Profilepics/profilePic-1721899932274.jpg",
+  "likedvideos": [],
+  "unlikedvideos": [],
+  "likedcomments": [],
+  "unlikedcomments": [],
+  "watched": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a21bf1cae52f1216ed6e31"
+  },
+  "userName": "Omri",
+  "password": "$2b$10$VXZdTBtgfqGcgNSjB7f04u9Xcy/1YPAubCVkts20QyyAL7QqqZ1z6",
+  "videos_id": [
+    {
+      "$oid": "66a22a4fcae52f1216ed6f48"
+    },
+    {
+      "$oid": "66a22a65cae52f1216ed6f4d"
+    },
+    {
+      "$oid": "66a22a79cae52f1216ed6f53"
+    },
+    {
+      "$oid": "66a22a8ecae52f1216ed6f5a"
+    },
+    {
+      "$oid": "66a22aa8cae52f1216ed6f62"
+    },
+    {
+      "$oid": "66a22ad1cae52f1216ed6f6b"
+    },
+    {
+      "$oid": "66a22aeacae52f1216ed6f75"
+    },
+    {
+      "$oid": "66a22b18cae52f1216ed6f80"
+    },
+    {
+      "$oid": "66a22bb0b3946de7973187cf"
+    },
+    {
+      "$oid": "66a22bd8b3946de7973187dc"
+    },
+    {
+      "$oid": "66a22bf8b3946de7973187ea"
+    },
+    {
+      "$oid": "66a22c13b3946de7973187f9"
+    },
+    {
+      "$oid": "66a22c2bb3946de797318809"
+    },
+    {
+      "$oid": "66a22c40b3946de79731881a"
+    },
+    {
+      "$oid": "66a22c57b3946de79731882c"
+    }
+  ],
+  "publicName": "Omri",
+  "profilePicPath": "resources/Profilepics/profilePic-1721900017182.jpg",
+  "likedvideos": [],
+  "unlikedvideos": [],
+  "likedcomments": [],
+  "unlikedcomments": [],
+  "watched": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a21c02cae52f1216ed6e34"
+  },
+  "userName": "Neta",
+  "password": "$2b$10$ukTwPr2n.k73aFELRDQdfOqqWFTXwvvu9S/0lod3c1kaR3ClYdb2K",
+  "videos_id": [
+    {
+      "$oid": "66a227d3cae52f1216ed6e98"
+    },
+    {
+      "$oid": "66a22837cae52f1216ed6ea3"
+    },
+    {
+      "$oid": "66a22866cae52f1216ed6eaa"
+    },
+    {
+      "$oid": "66a22881cae52f1216ed6eb2"
+    },
+    {
+      "$oid": "66a230b3db45a7eacd3af270"
+    }
+  ],
+  "publicName": "Neta",
+  "profilePicPath": "resources/Profilepics/profilePic-1721900034677.jpeg",
+  "likedvideos": [],
+  "unlikedvideos": [],
+  "likedcomments": [],
+  "unlikedcomments": [],
+  "watched": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a22fbfdb45a7eacd3af231"
+  },
+  "userName": "Test",
+  "password": "$2b$10$DfKTsihb.VqguZPMyhgaXeE47QMlNL71Fe8Y0VtSm89OxS9It8P1y",
+  "videos_id": [],
+  "publicName": "test",
+  "profilePicPath": "resources/Profilepics/profilePic-1721905087600.jpg",
+  "likedvideos": [],
+  "unlikedvideos": [],
+  "likedcomments": [],
+  "unlikedcomments": [],
+  "watched": [],
+  "__v": 0
+}]

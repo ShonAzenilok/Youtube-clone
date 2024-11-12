@@ -1,0 +1,120 @@
+.container {
+  margin-top: 20px;
+}
+
+.subheader {
+  font-weight: 600;
+  height: 30px;
+  text-align: center;
+
+}
+
+.filterRow {
+  display: flex;
+  align-items: center;
+
+}
+
+.filterIcon {
+  padding: 0;
+  margin-top: 3px;
+  width: 40px;
+  height: 30px;
+}
+.imgbutton {
+  background-color: white;
+  border-radius: 1000px;
+  width: fit-content;
+  height: fit-content;
+  padding: 0;
+  justify-content: center;
+}
+.imgbutton:hover {
+  background-color: #dee2e6;
+}
+.imgbutton:focus {
+  background-color: white;
+}
+
+.parametersRow {
+  display: flex;
+  grid-template-columns: repeat(6, 1fr);
+  font-weight: bold;
+  
+}
+
+.column {
+  border: 1px solid #dee2e6; /* Light gray border */
+  padding: 8px;
+}
+.col {
+
+  border:  1px solid #dee2e6; /* Light gray border */ ;
+}
+.coldelete {
+  display: flex; /* Use flexbox */
+  justify-content: flex-end; /* Align content to the end horizontally */
+}
+.delbutton {
+  display: flex; /* Flex container for centering */
+  justify-content: center; /* Center the form content */
+  background-color: white;
+  border: 1px solid crimson;
+  color: crimson;
+  border-radius: 0px;
+  width: 250px;
+  
+  
+}
+.delbutton:hover {
+  color: white;
+  background-color: crimson;
+  transition: color 0.3s, background-color 0.3s; /* Smooth transition */
+}
+.delbutton:focus {
+  background-color: white;
+  color : crimson;
+}
+.dark {
+  min-height: 100vh;
+  background-color: #333333;
+  color: #ffffff;
+}
+.dark .imgbutton {
+  background-color: #6c757d; /* Dark background */
+  border: 1px solid #ced4da; /* Light border */
+  color: white; /* White text */
+
+}
+.dark .imgbutton:hover {
+  background-color: #f5f5f5;
+  color: #000;
+  transition: color 0.3s, background-color 0.3s; /* Smooth transition */
+}
+.dark .imgbutton:focus {
+  background-color: #f5f5f5;
+  color: #000;
+}
+.dark .delbutton {
+  background-color: #6c757d; /* Dark background */
+  border: 1px solid #ced4da; /* Light border */
+  color: white; /* White text */
+  
+}
+.dark .delbutton:hover {
+  background-color: #f5f5f5;
+  color: #000;
+  transition: color 0.3s, background-color 0.3s; /* Smooth transition */
+}
+.dark .delbutton:focus {
+  background-color: #f5f5f5;
+  color: #000;
+}
+
+.dark .column {
+  border: 1px solid #343a40; /* Light gray border */
+}
+.dark .col {
+
+  border:  1px solid #343a40; /* Light gray border */ ;
+}

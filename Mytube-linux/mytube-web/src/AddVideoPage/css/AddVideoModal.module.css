@@ -1,0 +1,58 @@
+.btnadd {
+    display: flex;
+    justify-content: flex-end;
+    /* Align buttons to the right */
+    margin-left: 10px;
+    /* Add space between buttons */
+    background-color: white;
+    border: 1px solid ;
+    color: crimson;
+    border-radius: 26px;
+    
+}
+
+.btnadd:hover {
+    color: white;
+    background-color: crimson;
+    border: 1px solid crimson;
+    transition: color 0.3s, background-color 0.3s; /* Smooth transition */
+}
+.btnadd:focus {
+    background-color: white;
+    color: crimson;
+}
+.btnadd.dark {
+    background-color: #6c757d; /* Dark background */
+    border: 1px solid #ced4da; /* Light border */
+    color: white; /* White text */
+}
+.btnadd.dark:hover {
+    background-color: #f5f5f5;
+    color: #000;
+    transition: color 0.3s, background-color 0.3s; /* Smooth transition */
+}
+.btnadd.dark:focus {
+    background-color: #f5f5f5;
+    color: #000;
+}
+
+
+
+/* Custom styles for the modal */
+.modaldialog {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 800px;
+    /* Adjust the width as needed */
+}
+
+
+
+.input_group_text {
+    /* Add some margin to separate the labels */
+    margin: 10px 0;
+    /* Style the label text */
+    font-weight: 500;
+}
+

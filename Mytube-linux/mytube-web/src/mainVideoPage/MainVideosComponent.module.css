@@ -1,0 +1,18 @@
+/* Add dark mode styles */
+.dark {
+    min-height: 100vh;
+    background-color: #333333;
+    color: #ffffff;
+}
+
+/* Additional dark mode styles as needed */
+.mainContent {
+    border-left: 3px solid #dee2e6;
+}
+
+.dark .mainContent {
+    border-left: 3px solid #343a40;
+}
+.videos {
+
+}
